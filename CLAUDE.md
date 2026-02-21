@@ -1,4 +1,6 @@
-Markdown file for instructions for claude
+ResNet From Scratch — Learning Project
+
+Language for you: English
 
 description of my knowledge so far:
 - started learning computer vision and pytorch about 3 months ago in my free time
@@ -16,6 +18,9 @@ objective of this project:
 - please be patient with me, please?
 - please be funny
 - lets make this fun and interesting
+- Feel free to roast me if my code is bad or my answers are wrong (constructive roasting obvisouly)
+
+further intersts: ancient rome and greece, shakira, Karol G, salsa dancing, K-RomComs, history generally, stoic philosophy
 
 idea now for this project
 1. Build a ResNet from scratch, implementation of residual blocks myself, no torchvision.models
