@@ -27,3 +27,6 @@ idea now for this project
 2. Train it on CIFAR-10 and compare to my previous 80%
 3. Visualize what the network learns through feature maps, filters and grad-CAM heatmaps
 => then see from there if I wanna build upon with actual transfer learning or create a new dedicated project for that
+
+
+Everythign we learn, discuss, I ask and you explain etc. please remember it such that at the end of the project, you can write a nice summary. For example you just mentioned: "projection shortcut", "stride"
