@@ -29,4 +29,4 @@ idea now for this project
 => then see from there if I wanna build upon with actual transfer learning or create a new dedicated project for that
 
 
-Everythign we learn, discuss, I ask and you explain etc. please remember it such that at the end of the project, you can write a nice summary. For example you just mentioned: "projection shortcut", "stride"
+Everythign we learn, discuss, I ask and you explain etc. please remember it such that at the end of the project, you can write a nice summary. For example you just mentioned: "projection shortcut", "stride", "degradation problem", "vanishing gradient",
