@@ -1,0 +1,23 @@
+# ===== Python =====
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# ===== VSCode =====
+.vscode/
+
+# ===== macOS =====
+.DS_Store
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== ML projects (VERY important for you) =====
+data/
+datasets/
+runs/
+checkpoints/
+*.pt
+*.pth
